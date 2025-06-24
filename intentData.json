@@ -1,0 +1,2978 @@
+[
+  {
+    "text": "Turn on the hallway lamp",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Please switch on the living room light",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Power on the bedroom fan",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Can you turn off the TV?",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Switch off the air conditioner",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Turn the lights on in the kitchen",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Shut off the heater",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Enable the desk lamp",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Deactivate the bedroom light",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Turn off the garage lights",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Turn on the smart speaker",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Turn off the bathroom fan",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Switch on the ceiling light",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Turn the AC on",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Switch the fan off",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Start the humidifier",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Stop the vacuum cleaner",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Power off the computer",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Turn off the charger",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Turn on the night light",
+    "intent": "control_device_power"
+  },
+  {
+    "text": "Turn on my phone screen",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Unlock my phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Open WhatsApp on my phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Take a screenshot on the phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Start screen recording on my Android",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Mute my phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Increase phone volume",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Turn off Bluetooth on my phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Enable airplane mode on phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Restart my phone using ADB",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Launch camera app on the phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Close all apps on my phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Go back on phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Open YouTube on phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Swipe left on my phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Simulate power button press",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Type 'hello' on my phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Go to home screen on the phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Open settings on Android device",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Play music on phone",
+    "intent": "control_phone"
+  },
+  {
+    "text": "Play some music",
+    "intent": "play_music"
+  },
+  {
+    "text": "Start playing my songs",
+    "intent": "play_music"
+  },
+  {
+    "text": "Put on a track",
+    "intent": "play_music"
+  },
+  {
+    "text": "I want to listen to music",
+    "intent": "play_music"
+  },
+  {
+    "text": "Can you play something?",
+    "intent": "play_music"
+  },
+  {
+    "text": "Play my favorite playlist",
+    "intent": "play_music"
+  },
+  {
+    "text": "Start Spotify",
+    "intent": "play_music"
+  },
+  {
+    "text": "Turn on the music",
+    "intent": "play_music"
+  },
+  {
+    "text": "Let’s listen to music",
+    "intent": "play_music"
+  },
+  {
+    "text": "Play audio now",
+    "intent": "play_music"
+  },
+  {
+    "text": "Play a song for me",
+    "intent": "play_music"
+  },
+  {
+    "text": "Start my workout playlist",
+    "intent": "play_music"
+  },
+  {
+    "text": "Hit play on music",
+    "intent": "play_music"
+  },
+  {
+    "text": "Begin music playback",
+    "intent": "play_music"
+  },
+  {
+    "text": "Resume music please",
+    "intent": "play_music"
+  },
+  {
+    "text": "Play the last song I played",
+    "intent": "play_music"
+  },
+  {
+    "text": "Just play some chill music",
+    "intent": "play_music"
+  },
+  {
+    "text": "Play background music",
+    "intent": "play_music"
+  },
+  {
+    "text": "Open the music player and play something",
+    "intent": "play_music"
+  },
+  {
+    "text": "Play Lo-Fi beats",
+    "intent": "play_music"
+  },
+  {
+    "text": "Pause the music",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Can you stop the music for a sec?",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Hold on, pause it",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Pause the song",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Please pause my playlist",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Pause audio now",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Put the music on hold",
+    "intent": "pause_music"
+  },
+  {
+    "text": "I need a break, pause it",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Pause the track",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Pause Spotify",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Pause all sound",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Pause playback",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Stop music temporarily",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Stop the current song",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Can you pause that?",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Pause everything that’s playing",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Take a pause on music",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Pause background music",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Mute and pause the track",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Just pause this song",
+    "intent": "pause_music"
+  },
+  {
+    "text": "Stop the music",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Turn off the music now",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Please stop playing songs",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Stop the audio",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Cut the music completely",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Enough music, stop it",
+    "intent": "stop_music"
+  },
+  {
+    "text": "I don’t want to listen anymore",
+    "intent": "stop_music"
+  },
+  {
+    "text": "End the song",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Completely stop playback",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Kill the music player",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Shut the music off",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Turn off Spotify",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Close the audio player",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Stop background audio",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Music off now",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Stop the current track",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Terminate audio playback",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Can you stop music?",
+    "intent": "stop_music"
+  },
+  {
+    "text": "End this playlist",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Stop playing music completely",
+    "intent": "stop_music"
+  },
+  {
+    "text": "Next song please",
+    "intent": "next_track"
+  },
+  {
+    "text": "Skip this track",
+    "intent": "next_track"
+  },
+  {
+    "text": "Go to the next one",
+    "intent": "next_track"
+  },
+  {
+    "text": "Play the next track",
+    "intent": "next_track"
+  },
+  {
+    "text": "I don't like this, next",
+    "intent": "next_track"
+  },
+  {
+    "text": "Can you go to the next song?",
+    "intent": "next_track"
+  },
+  {
+    "text": "Move on to the next",
+    "intent": "next_track"
+  },
+  {
+    "text": "Skip to the next one",
+    "intent": "next_track"
+  },
+  {
+    "text": "Next music please",
+    "intent": "next_track"
+  },
+  {
+    "text": "Play what's next",
+    "intent": "next_track"
+  },
+  {
+    "text": "Next track in playlist",
+    "intent": "next_track"
+  },
+  {
+    "text": "Change the song",
+    "intent": "next_track"
+  },
+  {
+    "text": "Advance to the next audio",
+    "intent": "next_track"
+  },
+  {
+    "text": "Just skip it",
+    "intent": "next_track"
+  },
+  {
+    "text": "Switch to the next track",
+    "intent": "next_track"
+  },
+  {
+    "text": "Can we go forward?",
+    "intent": "next_track"
+  },
+  {
+    "text": "Move to next song",
+    "intent": "next_track"
+  },
+  {
+    "text": "I want the next one",
+    "intent": "next_track"
+  },
+  {
+    "text": "Go ahead to the next one",
+    "intent": "next_track"
+  },
+  {
+    "text": "Next please",
+    "intent": "next_track"
+  },
+  {
+    "text": "Go back to the previous song",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Play the last track again",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Previous song please",
+    "intent": "previous_track"
+  },
+  {
+    "text": "I want to hear the last one again",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Can you go to the last song?",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Back to previous",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Play the track before this",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Rewind to previous track",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Play the previous audio",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Last song was better, go back",
+    "intent": "previous_track"
+  },
+  {
+    "text": "I want to replay the last track",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Play one before this",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Go back a song",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Previous music please",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Repeat the earlier track",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Switch to the previous one",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Can you replay the previous?",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Rewind to last song",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Move back one song",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Go to the earlier song",
+    "intent": "previous_track"
+  },
+  {
+    "text": "Make it louder",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Turn the volume up",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Raise the sound level",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Increase the audio",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Pump up the volume",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Can you make this louder?",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "It's too quiet, turn it up",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Volume up, please",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Increase music volume",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Set volume to high",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Make sound higher",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Louder music please",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Can you boost the sound?",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Turn it way up",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Volume to 90 percent",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Crank it up",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Give me more volume",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Louder audio now",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Raise the music volume",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Increase the system volume",
+    "intent": "increase_volume"
+  },
+  {
+    "text": "Turn the volume down",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Lower the music",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "It's too loud, reduce it",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Can you decrease the volume?",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Lower the sound",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Drop the volume a bit",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Make it quieter",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Set volume to 30%",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Reduce the sound level",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Soft music please",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Volume is too high, fix it",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Bring volume down",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Can you quiet it down?",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Lower audio output",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Reduce playback volume",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Volume down please",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Tone down the sound",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Decrease music level",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Lower the system volume",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Make the song quieter",
+    "intent": "decrease_volume"
+  },
+  {
+    "text": "Mute the music",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Turn music sound off",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Can you mute the audio?",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Shut off the song volume",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Mute just the music",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Silence the music player",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Mute playback",
+    "intent": "mute_music"
+  },
+  {
+    "text": "I want silent music",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Turn off song sound",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Put Spotify on mute",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Mute this track",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Please kill the music volume",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Just mute the song",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Make the music go quiet",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Disable song audio",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Silence the audio player",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Can you mute all songs?",
+    "intent": "mute_music"
+  },
+  {
+    "text": "No music sound please",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Quiet the background music",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Stop audio but don’t stop the song",
+    "intent": "mute_music"
+  },
+  {
+    "text": "Change my wallpaper",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "I want a new background",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Switch the desktop wallpaper",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Set a different wallpaper",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Give me a new wallpaper please",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Can you change the background image?",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Update my wallpaper",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "I’m bored of this background, change it",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Rotate the wallpaper",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Set a cool background",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Change wallpaper to something darker",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Put a nature image as wallpaper",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Make my background aesthetic",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Switch to a space-themed wallpaper",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Use a motivational quote as wallpaper",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Set custom wallpaper from folder",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Randomize the background image",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Wallpaper looks dull, change it",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Use yesterday’s wallpaper again",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Apply a new desktop theme",
+    "intent": "change_wallpaper"
+  },
+  {
+    "text": "Change my theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Switch to dark mode",
+    "intent": "set_theme"
+  },
+  {
+    "text": "I want light mode now",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Set my system to dark theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Turn on night mode",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Apply light theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Make everything darker",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Switch to a high contrast theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Use colorful theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Enable blue theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Go back to default theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "I want a minimal theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Set retro theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Use modern UI theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Change overall appearance",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Update the look and feel",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Switch from dark to light mode",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Enable AMOLED theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Apply custom theme",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Theme looks boring, change it",
+    "intent": "set_theme"
+  },
+  {
+    "text": "Update my profile",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Change my name to Shivam",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Edit my personal info",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Set a new email address",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Change my display name",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Update username",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Change my profile picture",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Use a different avatar",
+    "intent": "update_profile"
+  },
+  {
+    "text": "I want a new bio",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Add contact number to my profile",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Please update my details",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Set my profile as private",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Remove my phone number",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Change my login name",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Use a better profile picture",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Update account settings",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Correct the spelling in my name",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Edit user preferences",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Modify my personal information",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Change default profile",
+    "intent": "update_profile"
+  },
+  {
+    "text": "Remember my name is Shivam",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "My birthday is October 10, save that",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Don’t forget my favorite app is VS Code",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Store my email address",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "My laptop password is abc123, remember it",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Keep a note that I like dark mode",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Remember this Wi-Fi password",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Can you save my phone number?",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "My pet's name is Bruno, remember that",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Keep track of my project deadline: June 30",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Store my favorite website as YouTube",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Log my work hours starting today",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Note that I’m allergic to peanuts",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Save my friend’s number as emergency contact",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "I use Python daily, remember that",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Store my exam date: July 12",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Remember I prefer voice replies",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Add this to my memory: I work 9 to 5",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Keep this preference saved",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Log this: I’m working remotely this week",
+    "intent": "remember_user_info"
+  },
+  {
+    "text": "Remind me to drink water at 3 PM",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Set a reminder for my meeting",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Remind me tomorrow to call mom",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Remind me every morning to meditate",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Add a reminder for my assignment deadline",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Can you remind me to buy groceries?",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Remind me in 2 hours to check emails",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Create a reminder to submit project",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "I need a reminder for my doctor appointment",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Set a daily reminder at 6 AM",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Wake me up at 7",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Tell me to take medicine at 9",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Remind me to charge my laptop tonight",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Set alarm for 5:30",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Can you alert me to pick up the parcel?",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Add a reminder to water plants",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Don’t let me forget to back up files",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "I need to remember a meeting on Friday",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Schedule a task reminder for next Monday",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Make sure I don’t forget my online class",
+    "intent": "set_reminder"
+  },
+  {
+    "text": "Hi",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Hey assistant",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Good morning",
+    "intent": "greet_user"
+  },
+  {
+    "text": "What’s up?",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Hello there!",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Yo, what's happening?",
+    "intent": "greet_user"
+  },
+  {
+    "text": "How’s it going?",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Hey buddy",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Good evening, assistant",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Hi there, how are you?",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Hello again",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Hi! Ready to work?",
+    "intent": "greet_user"
+  },
+  {
+    "text": "What’s new, assistant?",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Hey, wake up!",
+    "intent": "greet_user"
+  },
+  {
+    "text": "I’m back",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Good to see you again",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Morning assistant",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Hi, are you there?",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Hello, Shiv here",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Greet me with style!",
+    "intent": "greet_user"
+  },
+  {
+    "text": "Tell me a joke",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Make me laugh",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Give me something funny",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Cheer me up with a joke",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Say something hilarious",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "I need a good laugh",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Got any jokes?",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Tell me a tech joke",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Crack a joke",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Humor me, assistant",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Can you make me smile?",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Say a computer joke",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Tell me a dad joke",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Make me laugh right now",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Say something funny please",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Tell a short joke",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Got a smart joke?",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "I’m bored, joke time",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Make me laugh with AI humor",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "Say the funniest thing you know",
+    "intent": "tell_joke"
+  },
+  {
+    "text": "I want to rename you",
+    "intent": "change_name"
+  },
+  {
+    "text": "Change your name to Yuki",
+    "intent": "change_name"
+  },
+  {
+    "text": "Can I give you a new name?",
+    "intent": "change_name"
+  },
+  {
+    "text": "Let me call you something else",
+    "intent": "change_name"
+  },
+  {
+    "text": "Rename yourself to Jarvis",
+    "intent": "change_name"
+  },
+  {
+    "text": "I want to call you Nova",
+    "intent": "change_name"
+  },
+  {
+    "text": "Can I change your name?",
+    "intent": "change_name"
+  },
+  {
+    "text": "Update assistant name to Luna",
+    "intent": "change_name"
+  },
+  {
+    "text": "Your new name is Echo",
+    "intent": "change_name"
+  },
+  {
+    "text": "Rename assistant to Titan",
+    "intent": "change_name"
+  },
+  {
+    "text": "From now on, you're Gemini",
+    "intent": "change_name"
+  },
+  {
+    "text": "Can I call you Blaze?",
+    "intent": "change_name"
+  },
+  {
+    "text": "You’re now named Atlas",
+    "intent": "change_name"
+  },
+  {
+    "text": "Change your identity to Pixel",
+    "intent": "change_name"
+  },
+  {
+    "text": "I want to address you differently",
+    "intent": "change_name"
+  },
+  {
+    "text": "Update your name in settings",
+    "intent": "change_name"
+  },
+  {
+    "text": "Set your name to SkyBot",
+    "intent": "change_name"
+  },
+  {
+    "text": "I’m giving you a new name today",
+    "intent": "change_name"
+  },
+  {
+    "text": "Let me change what I call you",
+    "intent": "change_name"
+  },
+  {
+    "text": "You’re not ChatGPT anymore, you’re Spark",
+    "intent": "change_name"
+  },
+  {
+    "text": "Change your voice",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Switch to a female voice",
+    "intent": "change_voice"
+  },
+  {
+    "text": "I want a male voice instead",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Give me a robotic voice",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Make your voice sound human",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Talk like a British assistant",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Switch your accent to American",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Can you sound different?",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Use a softer voice",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Speak like an AI from sci-fi",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Change your tone",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Use a younger voice",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Make your voice deep",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Talk like a celebrity",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Change your speaking style",
+    "intent": "change_voice"
+  },
+  {
+    "text": "I want a funnier voice",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Sound more energetic",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Try a professional tone",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Can you use a different voice?",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Switch to default assistant voice",
+    "intent": "change_voice"
+  },
+  {
+    "text": "Who made you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Who created you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Who built you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Tell me your creator",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Who developed you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Which company created you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "What’s your origin?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Who coded you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Where do you come from?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Who designed you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Who is your owner?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Who programmed you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Who built this assistant?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Who gave you life?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Who’s responsible for you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Which team made you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Tell me about your maker",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Did Shivam Prasad create you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Who do you belong to?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "Whose project are you?",
+    "intent": "who_created_you"
+  },
+  {
+    "text": "What can you do?",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "Tell me your features",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "Show me your capabilities",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "How can you help me?",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "What are your functions?",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "What can I ask you?",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "List your skills",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "What tasks can you perform?",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "Give me a list of commands",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "What services do you offer?",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "Tell me what you're good at",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "How do you assist users?",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "Explain your functions",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "What’s your purpose?",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "What can this assistant handle?",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "Show me your powers",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "What’s your feature set?",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "What can you do for me today?",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "Give me examples of your abilities",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "Brief me on your functionality",
+    "intent": "what_can_you_do"
+  },
+  {
+    "text": "Introduce yourself",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Who are you?",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Tell me about yourself",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "What’s your name?",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Say something about yourself",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Give me a short intro",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Tell me who you are",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "What’s your identity?",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Introduce your personality",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Let me know who you are",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Can you tell me your name?",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Describe yourself",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Say your intro",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Who is this assistant?",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "What should I call you?",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Tell me your name and function",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Who am I talking to?",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Are you an AI?",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "What are you designed to do?",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Explain who you are",
+    "intent": "introduce_yourself"
+  },
+  {
+    "text": "Change some settings",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Update assistant preferences",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Modify my preferences",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Open settings",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Change how you respond",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Adjust system options",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Update your behavior",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Customize my assistant",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Switch to advanced mode",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Enable smart replies",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Disable background listening",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Turn on notifications",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Update voice speed",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Go to settings menu",
+    "intent": "update_settings"
+  },
+  {
+    "text": "I want to edit configurations",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Open preferences",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Update assistant response style",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Change how you work",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Modify general settings",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Tweak assistant behavior",
+    "intent": "update_settings"
+  },
+  {
+    "text": "Launch weather application in full screen",
+    "intent": "open_app"
+  },
+  {
+    "text": "Open calendar app in split view",
+    "intent": "open_app"
+  },
+  {
+    "text": "Start video conferencing software for meeting",
+    "intent": "open_app"
+  },
+  {
+    "text": "Run photo editing application",
+    "intent": "open_app"
+  },
+  {
+    "text": "Open document scanner on my phone",
+    "intent": "open_app"
+  },
+  {
+    "text": "Launch fitness tracking app",
+    "intent": "open_app"
+  },
+  {
+    "text": "Start language learning application",
+    "intent": "open_app"
+  },
+  {
+    "text": "Open Chrome",
+    "intent": "open_app"
+  },
+  {
+    "text": "Start Spotify",
+    "intent": "open_app"
+  },
+  {
+    "text": "Run Notepad",
+    "intent": "open_app"
+  },
+  {
+    "text": "Launch VS Code",
+    "intent": "open_app"
+  },
+  {
+    "text": "Open the calculator app",
+    "intent": "open_app"
+  },
+  {
+    "text": "Hey, open file explorer",
+    "intent": "open_app"
+  },
+  {
+    "text": "Can you start Zoom?",
+    "intent": "open_app"
+  },
+  {
+    "text": "Launch my terminal",
+    "intent": "open_app"
+  },
+  {
+    "text": "Bring up Microsoft Word",
+    "intent": "open_app"
+  },
+  {
+    "text": "Open Discord for me",
+    "intent": "open_app"
+  },
+  {
+    "text": "Fire up PowerPoint",
+    "intent": "open_app"
+  },
+  {
+    "text": "Start Steam",
+    "intent": "open_app"
+  },
+  {
+    "text": "I need to open WhatsApp",
+    "intent": "open_app"
+  },
+  {
+    "text": "Open the mail app",
+    "intent": "open_app"
+  },
+  {
+    "text": "Please open VLC player",
+    "intent": "open_app"
+  },
+  {
+    "text": "I want to use Excel",
+    "intent": "open_app"
+  },
+  {
+    "text": "Can you launch Photos?",
+    "intent": "open_app"
+  },
+  {
+    "text": "Run the text editor",
+    "intent": "open_app"
+  },
+  {
+    "text": "Start the music player",
+    "intent": "open_app"
+  },
+  {
+    "text": "Launch camera app",
+    "intent": "open_app"
+  },
+  {
+    "text": "Close Chrome",
+    "intent": "close_app"
+  },
+  {
+    "text": "Quit Spotify",
+    "intent": "close_app"
+  },
+  {
+    "text": "Exit Notepad",
+    "intent": "close_app"
+  },
+  {
+    "text": "Close VS Code now",
+    "intent": "close_app"
+  },
+  {
+    "text": "Shut down this app",
+    "intent": "close_app"
+  },
+  {
+    "text": "Close the current window",
+    "intent": "close_app"
+  },
+  {
+    "text": "Stop Discord",
+    "intent": "close_app"
+  },
+  {
+    "text": "Can you close Zoom?",
+    "intent": "close_app"
+  },
+  {
+    "text": "Exit calculator",
+    "intent": "close_app"
+  },
+  {
+    "text": "Close all open apps",
+    "intent": "close_app"
+  },
+  {
+    "text": "End task on Notepad",
+    "intent": "close_app"
+  },
+  {
+    "text": "Close terminal window",
+    "intent": "close_app"
+  },
+  {
+    "text": "Turn off the music player",
+    "intent": "close_app"
+  },
+  {
+    "text": "Please close this program",
+    "intent": "close_app"
+  },
+  {
+    "text": "Close Word",
+    "intent": "close_app"
+  },
+  {
+    "text": "Kill this app",
+    "intent": "close_app"
+  },
+  {
+    "text": "Close the thing I just opened",
+    "intent": "close_app"
+  },
+  {
+    "text": "I’m done, shut it down",
+    "intent": "close_app"
+  },
+  {
+    "text": "Exit everything running",
+    "intent": "close_app"
+  },
+  {
+    "text": "Finish and close it",
+    "intent": "close_app"
+  },
+  {
+    "text": "Take a screenshot",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Snap my screen",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Screenshot right now",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Capture the screen for me",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "I need a screenshot",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Grab what's on the screen",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Click a picture of my desktop",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Can you screenshot this?",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Save a quick screenshot",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Take a snap of this window",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Capture full screen",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Print screen now",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Take a screenshot and save",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Can you take a screenshot please?",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Screenshot the current app",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "I want to record this screen image",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Do a screen capture",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Take a desktop photo",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Snap current screen view",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Take one quick screen photo",
+    "intent": "take_screenshot"
+  },
+  {
+    "text": "Increase brightness",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Turn up the screen light",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Make it brighter",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Boost the display brightness",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Screen too dim, fix it",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Can you brighten the screen?",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Set brightness to 100%",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Raise screen light",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Dim the screen now",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Lower brightness please",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Turn brightness down a bit",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Reduce display brightness",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "It's too bright, make it low",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Put brightness at 40",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Screen hurts, reduce light",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Set brightness to low",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Max out the brightness",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Minimize brightness level",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Brighten this display",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Fix screen light level",
+    "intent": "set_brightness"
+  },
+  {
+    "text": "Lock the screen",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Secure the system",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Put it to lock mode",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Can you lock my PC?",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Activate screen lock",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Lock everything now",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "I’m away, lock it",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Turn on lock screen",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Please lock the computer",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Go into lock mode",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Lock the system down",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Enable locking",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "I’m leaving, lock this",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Time to lock the desktop",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Can you lock the session?",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Shut it and lock",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Lock the current user",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Activate computer lock",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Immediately lock this device",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Block screen access",
+    "intent": "lock_screen"
+  },
+  {
+    "text": "Shut down the PC",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Turn off the computer",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Power down everything",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "I’m done, shut it",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Please shut down the system",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Close all and power off",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Shutdown now",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Execute system shutdown",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Turn off my desktop",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "End all processes and shut",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Kill power",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Completely turn off the device",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Stop the system",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Hey, power off now",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Shut this machine",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Finish and power off",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Turn the system off",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Stop everything and shut it down",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Can you shut down the laptop?",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Initiate a full shutdown",
+    "intent": "shutdown_computer"
+  },
+  {
+    "text": "Restart the system",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Reboot the PC",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "I need a fresh start",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Can you reboot everything?",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Please restart my computer",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Turn it off and back on",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Restart now",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Give it a reboot",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Restart the whole thing",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Run a full restart",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Restart the laptop",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Shutdown and restart",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Cycle the power",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Can you restart the machine?",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Soft reboot now",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Reboot desktop",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Do a system reboot",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Reboot operating system",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Restart Windows",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Start it fresh",
+    "intent": "restart_computer"
+  },
+  {
+    "text": "Unmute everything",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Turn on the sound",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Unsilence the system",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Unmute the audio",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Turn on the music",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Audio on please",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "I want sound back",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Switch to unmute mode",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Louden up the PC",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Please unmute this",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Can you unmute it?",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Take off the silent mode",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Unmute speaker output",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Make it loud",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Sound on now",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Unsilence all apps",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Unmute the system",
+    "intent": "unmute_audio"
+  },
+  {
+    "text": "Connect to Wi-Fi",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Enable wireless",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "I need internet now",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Turn Wi-Fi on",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Hook up to home network",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Join the router",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Can you get online?",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Start Wi-Fi",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Enable connection",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Go online",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Search for available networks",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Connect to my hotspot",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Please turn on internet",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Connect me to the internet",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Internet on",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Join my Wi-Fi",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Turn on network connection",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Connect to the office Wi-Fi",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Wireless on",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Enable hotspot connection",
+    "intent": "connect_wifi"
+  },
+  {
+    "text": "Open calculator",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "I need the calculator",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Launch the calculator app",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Start calculator",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Bring up the calculator",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Can you open calculator?",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "I want to do some math",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Show me the calculator",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Access calculator please",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Let’s calculate something",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Turn on calculator",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Open basic calculator",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Use calculator now",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Open calc",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "I need to calculate something",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Start simple calculator",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Get me a calculator",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Activate calculator",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Run calculator app",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Open number cruncher",
+    "intent": "open_calculator"
+  },
+  {
+    "text": "Open notepad",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Launch a text editor",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "I want to write something down",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Start Notepad",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Can you open notepad for me?",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Bring up Notepad",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "I need to take a quick note",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Create a text file",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Show me Notepad",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Write something in notepad",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Open a blank note",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Use the notepad now",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Start a new text note",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Make a note",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Quick notes please",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Fire up notepad",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "New text document",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Launch default notepad",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Open simple note editor",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Run Notepad app",
+    "intent": "open_notepad"
+  },
+  {
+    "text": "Open clock",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Show me the clock app",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Launch timer or alarm",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Bring up the clock",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Start the clock application",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Access world clock",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Open alarm settings",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Check current time via clock app",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Open stopwatch",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Start a timer",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Can I set a timer?",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Turn on the alarm",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Use countdown timer",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Activate stopwatch",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Start clock now",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Open time utilities",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Clock app please",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Run digital clock",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Launch clock tools",
+    "intent": "open_clock"
+  },
+  {
+    "text": "Access alarm clock",
+    "intent": "open_clock"
+  },
+  {
+    "text": "What’s the weather like?",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Check weather",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Tell me today’s weather",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Do I need an umbrella?",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Is it going to rain?",
+    "intent": "check_weather"
+  },
+  {
+    "text": "What’s the temperature now?",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Weather update please",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Current weather report",
+    "intent": "check_weather"
+  },
+  {
+    "text": "How hot is it outside?",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Weather forecast today",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Show me weather",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Tell me weather status",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Is it sunny outside?",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Get me weather data",
+    "intent": "check_weather"
+  },
+  {
+    "text": "What's the climate like?",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Update me on weather",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Check outside temperature",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Tell me tomorrow's forecast",
+    "intent": "check_weather"
+  },
+  {
+    "text": "How's the weather looking?",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Look up local weather",
+    "intent": "check_weather"
+  },
+  {
+    "text": "Open settings",
+    "intent": "open_settings"
+  },
+  {
+    "text": "I want to change my system preferences",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Go to settings",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Launch settings menu",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Show me the system settings",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Bring up preferences",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Adjust settings",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Access my device settings",
+    "intent": "open_settings"
+  },
+  {
+    "text": "I need to tweak something",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Let me see the control panel",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Settings, please",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Change my configurations",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Open system settings",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Get me to preferences",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Open setup options",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Show control options",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Where are my settings?",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Go to control center",
+    "intent": "open_settings"
+  },
+  {
+    "text": "I want to update device options",
+    "intent": "open_settings"
+  },
+  {
+    "text": "Run settings app",
+    "intent": "open_settings"
+  }
+]
