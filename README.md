@@ -65,9 +65,9 @@ This will read `intentData.json`, process the data, train the intent classificat
 
 ## Todo
 
-* [] Improve training speed and model accuracy
-* [] Add more sample intent data
-* [] Provide basic usage instructions for integrating the trained model into external projects
+* [ ] Improve training speed and model accuracy
+* [ ] Add more sample intent data
+* [ ] Provide basic usage instructions for integrating the trained model into external projects
 
 ## License
 
