@@ -65,7 +65,6 @@ cd AIDesktopAssistant
 ```
 2. Configure your data:
 
-* Edit `intent_model/intentData.json` to define your intents.
 * Setup your custom entity tags and logic inside `nlu/`.
 
 ---
@@ -84,9 +83,8 @@ This assistant uses **custom-trained NLU models**. Train them via the companion 
 
 Once trained:
 
-* Save your intent model inside `intent_model/`
-* Save your NER model inside `nlu/`
-* Ensure the assistant loads them at startup in `main.py` or `nlu/engine.py`
+* Save your intent model inside `nlu/`
+* Save your NER model inside `nlu/simple_ner_model`
 
 ---
 
@@ -122,27 +120,20 @@ The assistant will:
 | Play music                       | `play_music`   | -                                         | Starts media playback |
 
 ---
-
 ## Development Roadmap
 
-```mermaid
-gantt
-    title AIDesktopAssistant Roadmap
-    dateFormat  YYYY-MM-DD
-    section Core System
-    Intent Classifier     :done,    ic, 2025-06-08, 2025-06-12
-    NER Model              :done,    ner, 2025-06-13, 2025-06-17
-    Assistant Engine       :active,  core, 2025-06-17, 2025-06-30
-    section Features
-    App Launcher Module   :done,    app, 2025-06-17, 2025-06-20
-    Reminder Module       :active,  rem, 2025-06-21, 2025-06-28
-    Media Control         :planned, media, 2025-07-01, 2025-07-10
-    Voice Input           :planned, voice, 2025-07-11, 2025-07-20
-    GUI Interface         :planned, gui, 2025-07-21, 2025-08-05
-```
+| Feature                          | Status        | Start Date   | End Date     |
+|----------------------------------|---------------|--------------|--------------|
+| Intent Classification            | ✅ Done        | 2024-01-01   | 2024-02-28   |
+| Basic Command Execution          | ✅ Done        | 2024-03-01   | 2024-04-15   |
+| Reminder Management              | 🔄 In Progress | 2024-04-16   | 2024-06-30   |
+| Voice Input (Speech-to-Text)     | ✅ Done        | 2024-07-01   | 2024-08-15   |
+| Text-to-Speech (TTS)             | ✅ Done        | 2024-08-16   | 2024-09-30   |
+| GUI Interface                    | ⏳ Planned     | 2024-10-01   | 2024-11-15   |
+| Plugin System                    | ⏳ Planned     | 2024-11-16   | 2024-12-31   |
+
 
 ---
-
 ## Contributing
 
 Contributions are welcome. Please:
@@ -172,12 +163,4 @@ GitHub: [shivamprasad1001](https://github.com/shivamprasad1001)
 * Built from scratch using custom-trained NLP models
 * No external cloud APIs – focused on local, private AI
 
-```
-
----
-
-Let me know if you’d like to:
-- Add contributor badges
-- Build a full `/docs` folder with individual pages
-- Generate `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, or CLI help pages
 ```
